@@ -8,7 +8,6 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
-// @keypremium   GDsjOoQVvqxrbDBeTTfI
 // @run-at       document-end
 // ==/UserScript==
 
